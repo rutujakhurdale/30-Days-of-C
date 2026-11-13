@@ -21,6 +21,3 @@ I'm starting my 30-day journey to learn C programming from scratch.
 - [ ] Day 5 - Practice Problems
 
 More days coming soon!
-
-## My Motto
-Consistency is more important than perfection. 💻
