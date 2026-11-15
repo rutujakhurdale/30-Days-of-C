@@ -24,13 +24,19 @@ Reverses the result.
 
 Example: "!1 = 0"
 
-3. Truth Table
+ 3. Truth Table
 
-A| B| AND| OR
-1| 1|  1|  1
-1| 0|  0|  1
-0| 1|  0|  1
-0| 0|  0|  0
+AND (&&)
+- 1 && 1 = 1
+- 1 && 0 = 0
+- 0 && 1 = 0
+- 0 && 0 = 0
+
+OR (||)
+- 1 || 1 = 1
+- 1 || 0 = 1
+- 0 || 1 = 1
+- 0 || 0 = 0
 
 4. What I Learned
 
